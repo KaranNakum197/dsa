@@ -24,7 +24,6 @@ class LinkedList:
             current = current.next
         print("None")
 
-# Example usage:
 my_list = LinkedList()
 my_list.append(10)
 my_list.append(20)
